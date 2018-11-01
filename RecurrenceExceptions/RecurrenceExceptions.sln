@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecurrenceExceptions", "RecurrenceExceptions\RecurrenceExceptions.csproj", "{A987DB52-CF4C-4E77-8640-FE4A37001D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Release|iPhone.Build.0 = Release|iPhone
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A987DB52-CF4C-4E77-8640-FE4A37001D98}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
